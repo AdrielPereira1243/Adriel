@@ -17,25 +17,6 @@ Desenvolvedor Front-end e Back-end apaixonado por criar soluções web inovadora
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrielPereira1243&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielPereira1243&layout=compact&langs_count=7&theme=dark&locale=pt-br" />
-  </a>
-</div>
-
-## 🔥 Sequência de Contribuições
-
-<div>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AdrielPereira1243&theme=dark&locale=pt-BR" />
-  </a>
-</div>
-
 ## 💼 Meus Projetos em Destaque
 
 ### 📱 [Report Service App](https://github.com/AdrielPereira1243/report-service-app)
