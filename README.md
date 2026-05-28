@@ -58,7 +58,7 @@ Desenvolvedor **Iniciante** em busca de crescimento constante, com foco em:
 ## 🤝 Conecte-se Comigo
 
 <div>
-  <a href="https://linkedin.com/in/AdrielPereira1243" target="_blank">
+  <a href=https://www.linkedin.com/in/adriel-pereira-63699a398/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/AdrielPereira1243" target="_blank">
